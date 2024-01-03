@@ -1,8 +1,8 @@
 <template>
 <v-table fixed-header>
   <thead>
-    <tr>
-      <th class="text-left">
+    <tr color="blue-lighten-4">
+      <th class="text-left" color="blue-lighten-4"  >
         Login name
       </th>
       <th class="text-left">

@@ -54,8 +54,11 @@
       </v-card>
     </v-navigation-drawer>
 
-    <v-main class="d-flex align-top justify-tpp" style="min-height: 300px;">
-      <router-view v-if="showUsersTable"></router-view>
+    <v-main d-flex justify-start class="d-flex align-top justify-top" style="min-height: 300px;">
+      <div class="d-flex justify-start mb-6 bg-surface-variant">
+        <router-view v-if="showUsersTable" style="height: 800px; width: 600px;" >
+        </router-view>
+        </div>
     </v-main>
   </v-layout>
 </template>

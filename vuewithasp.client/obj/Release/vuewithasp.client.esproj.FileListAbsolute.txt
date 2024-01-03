@@ -1,0 +1,1 @@
+D:\Home\Daniel\SoftwareEntwicklung\WebApp\VueWithASP\vuewithasp.client\obj\Release\vuewithasp.client.esproj.CoreCompileInputs.cache
